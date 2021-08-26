@@ -47,4 +47,4 @@ payload:
   - DOMAIN,clash.razord.top,🎯 直连服务
   - DOMAIN,yacd.haishan.me,🎯 直连服务
   
-  - PROCESS-NAME,ActionTaimanin.exe🍖 默认代理
+  - PROCESS-NAME,ActionTaimanin.exe,🍖 默认代理
