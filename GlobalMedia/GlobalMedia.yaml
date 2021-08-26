@@ -1,0 +1,6 @@
+AFP:
+  type: http
+  behavior: classical
+  url: 'https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Global-Services/AFP.yaml'
+  path: ./Rules/GlobalMedia/AFP.yaml
+  interval: 86400
