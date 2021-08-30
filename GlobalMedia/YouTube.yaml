@@ -1,6 +1,0 @@
-YouTube:
-  type: http
-  behavior: classical
-  url: 'https://raw.githubusercontent.com/LM-Firefly/Rules/master/Clash-RuleSet-Classical/Global-Services/YouTube.yaml'
-  path: ./Rules/GlobalMedia/YouTube.yaml
-  interval: 86400
