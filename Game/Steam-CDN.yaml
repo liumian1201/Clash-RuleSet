@@ -1,6 +1,10 @@
 payload:
   ## >> Steam
   - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamstat.us
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steamusercontent.com
   ## >> Akamai Download CDN
   - DOMAIN-SUFFIX,steambroadcast.akamaized.net
   - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
