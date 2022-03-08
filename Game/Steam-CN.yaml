@@ -37,3 +37,5 @@ payload:
   - DOMAIN-KEYWORD,steamstore
   - DOMAIN-KEYWORD,steamuserimages
   - DOMAIN-KEYWORD,steambroadcast
+## >>  Download CDN
+  - DOMAIN-SUFFIX,steampipe.akamaized.net
