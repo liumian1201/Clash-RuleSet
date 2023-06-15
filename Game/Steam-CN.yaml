@@ -46,28 +46,28 @@ payload:
   - DOMAIN-KEYWORD,steamstore
   - DOMAIN-KEYWORD,steamuserimages
   - DOMAIN-KEYWORD,steambroadcast
-  ## >>  Download CDN
+  ## >> Download CDN
 
-  ## >>  EdgeCast Download CDN
+  ## >> EdgeCast Download CDN
   - DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
   - DOMAIN-SUFFIX,edgecast.cdn.steampipe.steamcontent.com
-  ## >>  Google Download CDN
+  ## >> Google Download CDN
   - DOMAIN-SUFFIX,google.cdn.steampipe.steamcontent.com
   - DOMAIN-SUFFIX,google2.cdn.steampipe.steamcontent.com
-  ## >>  Level3 Download CDN
+  ## >> Level3 Download CDN
   - DOMAIN-SUFFIX,level3.cdn.steampipe.steamcontent.com
-  ## >>  HIGHWINDS Download CDN
-    - DOMAIN-SUFFIX,f3b7q2p3.ssl.hwcdn.net
-  ## >>  Telus Download CDN
-    - DOMAIN-SUFFIX,telus.cdn.steampipe.steamcontent.com
-  ## >>  Internode Download CDN
-    - DOMAIN-SUFFIX,steam.cdn.on.net
-  ## >>  Orcon Download CDN
-    - DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
-    - DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
-  ## >>  Webra Download CDN
-    - DOMAIN-SUFFIX,steam.cdn.webra.ru
-  ## >>  Valve Corporation
+  ## >> HIGHWINDS Download CDN
+  - DOMAIN-SUFFIX,f3b7q2p3.ssl.hwcdn.net
+  ## >> Telus Download CDN
+  - DOMAIN-SUFFIX,telus.cdn.steampipe.steamcontent.com
+  ## >> Internode Download CDN
+  - DOMAIN-SUFFIX,steam.cdn.on.net
+  ## >> Orcon Download CDN
+  - DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
+  - DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
+  ## >> Webra Download CDN
+  - DOMAIN-SUFFIX,steam.cdn.webra.ru
+  ## >> Valve Corporation
   - IP-CIDR,103.10.124.0/24,no-resolve
   - IP-CIDR,103.10.125.0/24,no-resolve
   - IP-CIDR,103.28.54.0/24,no-resolve
@@ -114,3 +114,4 @@ payload:
   - IP-CIDR,208.64.202.0/24,no-resolve
   - IP-CIDR,208.64.203.0/24,no-resolve
   - IP-CIDR,208.78.164.0/22,no-resolve
+  
