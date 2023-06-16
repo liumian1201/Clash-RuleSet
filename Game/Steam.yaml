@@ -11,10 +11,10 @@ payload:
   - DOMAIN-SUFFIX,underlords.com
   - DOMAIN-SUFFIX,valvesoftware.com
 
-  - DOMAIN-SUFFIX,steamstore-a.akamaihd.net
-  - DOMAIN-SUFFIX,cdn.akamai.steamstatic.com
-  - DOMAIN-SUFFIX,community.akamai.steamstatic.com
-  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
-  - DOMAIN-SUFFIX,cdn.cloudflare.steamstatic.com
-  - DOMAIN-SUFFIX,community.cloudflare.steamstatic.com
-  - DOMAIN-SUFFIX,store.cloudflare.steamstatic.com
+  #- DOMAIN-SUFFIX,steamstore-a.akamaihd.net
+  #- DOMAIN-SUFFIX,cdn.akamai.steamstatic.com
+  #- DOMAIN-SUFFIX,community.akamai.steamstatic.com
+  #- DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+  #- DOMAIN-SUFFIX,cdn.cloudflare.steamstatic.com
+  #- DOMAIN-SUFFIX,community.cloudflare.steamstatic.com
+  #- DOMAIN-SUFFIX,store.cloudflare.steamstatic.com
