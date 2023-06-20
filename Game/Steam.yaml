@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,steamunlocked.net
   - DOMAIN-SUFFIX,underlords.com
   - DOMAIN-SUFFIX,valvesoftware.com
+  - DOMAIN-SUFFIX,steambroadcast.akamaized.net
 
   #- DOMAIN-SUFFIX,steamstore-a.akamaihd.net
   #- DOMAIN-SUFFIX,cdn.akamai.steamstatic.com
