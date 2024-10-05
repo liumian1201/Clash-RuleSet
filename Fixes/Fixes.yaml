@@ -1,0 +1,7 @@
+payload:
+  ## > Fixes
+  - DOMAIN-SUFFIX,bilivideo.com
+  - DOMAIN-SUFFIX,bilibili.com
+  - DOMAIN-SUFFIX,bilibili.tv
+  - DOMAIN-SUFFIX,tplogin.cn
+  - DOMAIN-SUFFIX,xcstxt.com
