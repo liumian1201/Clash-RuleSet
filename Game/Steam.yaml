@@ -11,6 +11,7 @@ payload:
   - DOMAIN-SUFFIX,underlords.com
   - DOMAIN-SUFFIX,valvesoftware.com
   - DOMAIN-SUFFIX,steambroadcast.akamaized.net
+  - DOMAIN-SUFFIX,fastly.steamstatic.com
 
   #- DOMAIN-SUFFIX,steamstore-a.akamaihd.net
   #- DOMAIN-SUFFIX,cdn.akamai.steamstatic.com
